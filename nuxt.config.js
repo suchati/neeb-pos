@@ -76,7 +76,7 @@ export default {
   // Axios module configuration (https://go.nuxtjs.dev/config-axios)
   axios: {
     baseURL: 'https://neeb-pos.herokuapp.com/server'
-    // baseURL: 'http://localhost:3000/server',
+    // baseURL: 'http://localhost:3000/server'
     // baseURL: '~/server'
   },
 
